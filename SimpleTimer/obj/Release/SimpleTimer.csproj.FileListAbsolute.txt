@@ -1,0 +1,10 @@
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\bin\Release\SimpleTimer.exe.config
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\bin\Release\SimpleTimer.exe
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.SimpleTimer.resources
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.Properties.Resources.resources
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.csproj.GenerateResource.cache
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.csproj.CoreCompileInputs.cache
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.exe
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.pdb
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\bin\Release\SimpleTimer.pdb
+C:\Nice\WorkSpace\zOth\zCoding\TestFunc\SimpleTimer\SimpleTimer\obj\Release\SimpleTimer.csproj.AssemblyReference.cache
