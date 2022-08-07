@@ -2,7 +2,9 @@
 
 The simple timer count down with the loop of the set of life time management
 
-This program created because of my lack time tracking when I work with my job and do not take a break for just a minute. So that make me feel like I ruin my work life balance so much.
+This program created because of my lack time tracking when I work with my job and do not take a break for just a minute. 
+So that make me feel like I ruin my work life balance so much.
+
 Then I need to find some tool to tell me that I should take a break and come back to work later with the bright brain after relax for a bit.
 
 After I tried to find the simple timer that I can set time just (work and break group) and repeat themself for the whole day. I can not find the tool that fit my need.
